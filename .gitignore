@@ -1,0 +1,4 @@
+.ideal/
+.vscode/
+node_modules/
+build/
